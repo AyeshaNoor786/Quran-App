@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_textsms.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\textsms.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_read_more.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\read_more.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\add_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_returrn.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\returrn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_local_library.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\local_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_laptop.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\laptop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_returrn.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\returrn.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\add_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_chrome_reader.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\chrome_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_laptop.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\laptop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_textsms.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\textsms.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_insert_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\insert_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_read_more.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\read_more.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_read_more.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\read_more.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_laptop.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\laptop.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_local_library.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\local_library.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_add_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\add_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_surah.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\activity_search_surah.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_laptop.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\laptop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list_adapter_ayahs.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\activity_list_adapter_ayahs.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_voice.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_add_comment.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\add_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_voice.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_textsms.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\textsms.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_voice.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\voice.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_parah_list.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\activity_parah_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_read_more.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\read_more.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_voice.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_voice.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_local_library.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\local_library.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_returrn.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\returrn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_surah__list.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\activity_surah__list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_insert_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\insert_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_voice.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_insert_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\insert_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_book.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_returrn.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\returrn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_textsms.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\textsms.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_chrome_reader.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\chrome_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_book.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_returrn.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\returrn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_local_library.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\local_library.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_chrome_reader.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\chrome_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_returrn.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\returrn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_read_more.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\read_more.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_voice.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\voice.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_textsms.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\textsms.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_book.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_parah_display.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\activity_parah_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_local_library.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\local_library.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\add_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_surah__display.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\activity_surah__display.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_insert_comment.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\insert_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_insert_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\insert_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_textsms.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\textsms.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_read_more.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\read_more.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_returrn.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\returrn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_laptop.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\laptop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_insert_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\insert_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_read_more.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\read_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_textsms.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\textsms.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\add_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_chrome_reader.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\chrome_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_laptop.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\laptop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_book.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_insert_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\insert_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_chrome_reader.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\chrome_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_comment.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\add_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_book.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_laptop.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\laptop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_chrome_reader.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\chrome_reader.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_header.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_local_library.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\local_library.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chrome_reader.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\chrome_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_book.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\book.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_book.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_local_library.png.flat",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\local_library.png"
+    }
+]

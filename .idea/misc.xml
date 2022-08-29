@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Practice/Practice-master/Quran_App/app/src/main/res/drawable/add_comment.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Practice/Practice-master/Quran_App/app/src/main/res/drawable/insert_comment.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Practice/Practice-master/Quran_App/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Practice/Practice-master/Quran_App/app/src/main/res/layout/activity_navigation.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Practice/Practice-master/Quran_App/app/src/main/res/layout/activity_parah_display.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Practice/Practice-master/Quran_App/app/src/main/res/layout/activity_parah_list.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Practice/Practice-master/Quran_App/app/src/main/res/layout/activity_search_surah.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Practice/Practice-master/Quran_App/app/src/main/res/layout/activity_surah__display.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Practice/Practice-master/Quran_App/app/src/main/res/layout/activity_surah__list.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Practice/Practice-master/Quran_App/app/src/main/res/layout/content_navigation.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Practice/Practice-master/Quran_App/app/src/main/res/layout/header.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Practice/Practice-master/Quran_App/app/src/main/res/menu/main_menu.xml" value="0.18645833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

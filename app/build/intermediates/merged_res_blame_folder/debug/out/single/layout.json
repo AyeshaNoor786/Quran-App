@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_search_surah.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\activity_search_surah.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_surah__display.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\activity_surah__display.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_navigation.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\activity_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\header.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_parah_list.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\activity_parah_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_list_adapter_ayahs.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\activity_list_adapter_ayahs.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_parah_display.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\activity_parah_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_navigation.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\content_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_surah__list.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\Practice\\Practice-master\\Quran_App\\app\\src\\main\\res\\layout\\activity_surah__list.xml"
+    }
+]
